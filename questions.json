@@ -1,0 +1,22 @@
+{
+  "ask":[
+    {
+      "front": "Who played lead guitar for the British rock band Queen?",
+      "back": "Brian May",
+      "text": "Brian May played lead guitar for the British rock band Queen.",
+      "cloze": "Brian May"
+    },
+    {
+      "front": "Who is the lead singer for the American rock band Pearl Jam?",
+      "back": "Eddie Vedder",
+      "text": "Eddie Vedder is the lead singer for the American rock band Pearl Jam.",
+      "cloze": "Eddie Vedder"
+    },
+    {
+      "front": "Who was the lead singer of the band Audioslave?",
+      "back": "Chris Cornell",
+      "text": "Chris Cornell was the lead singer of the band Audioslave.",
+      "cloze": "Chris Cornell"
+    }
+  ]
+}
